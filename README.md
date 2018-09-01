@@ -10,4 +10,4 @@ It mainly uses ffmpeg library to perform main action.
 
 ## How to use:
 To use it, first change directory to this script.
-* ``./shrinkmp3.sh [Original MP3 direcotry] [New empty directory]``
+* ``./shrinkMP3.sh [Original MP3 direcotry] [New empty directory]``
